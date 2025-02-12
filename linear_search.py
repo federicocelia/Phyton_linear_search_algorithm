@@ -29,3 +29,5 @@ verify(result)
 result = linear_search(Numbers, 6)
 verify(result)
 
+result = linear_search(Numbers, 2)
+verify(result)
